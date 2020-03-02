@@ -16,6 +16,6 @@ In addition to this file, there are other large files in the images folder. Comp
 1. Close MySQL Workbench
 2. Copy the files advpng.exe, patch.bat, zlib.dll to the images folder, I have it in "C: \ Program Files \ MySQL \ MySQL Workbench 8.0 CE \ images"
 3. Run patch.bat
-4.Let's open MySQL Workbench
+4. Let's open MySQL Workbench
 
 Checked for version 8.0.19 windows
