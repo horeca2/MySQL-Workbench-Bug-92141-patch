@@ -19,3 +19,5 @@
 2. Скопируем файлы advpng.exe, patch.bat,	zlib.dll в папку images, у меня она в "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\images"
 3. Запустим patch.bat
 4. Откроем MySQL Workbench
+
+Проверено для версии 8.0.19 windows
