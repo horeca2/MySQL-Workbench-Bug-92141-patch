@@ -24,7 +24,7 @@ Checked for version 8.0.19 windows
 Does not require files from repo. Download advpng using the link about or using homebrew.
 1. Close MySQL Workbench
 2. Nagivate to /Applications/MySQLWorkbench.app/Contents/Resources
-3. Run advpng -z db.Column.pkfk.11x11.png
+3. Run `advpng -z db.Column.pkfk.11x11.png`
 4. Open MySQLWorkbench
 
 Checked for macOS 10.14.6
