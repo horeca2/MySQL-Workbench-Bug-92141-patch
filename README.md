@@ -15,12 +15,12 @@ In addition to this file, there are other large files in the images folder. Comp
 
 1. Close MySQL Workbench
 2. Copy the files advpng.exe, patch.bat, zlib.dll to the images folder, I have it in "C: \ Program Files \ MySQL \ MySQL Workbench 8.0 CE \ images"
-3. Run patch.bat
+3. Run patch.bat (make sure you run it as "Administrator")
 4. Let's open MySQL Workbench to see the correctly displayed key icons.
 
 If this still didn't work, copy the images folder to the desktop and run patch.bat as above in "desktop \ images" folder. Then overwrite the images folder in "C: \ Program Files \ MySQL \ MySQL Workbench 8.0 CE \ images" with the "desktop \ images" folder. Open MySQL Workbench to see the icons.
 
-Checked for version 8.0.19 windows
+Checked for version 8.0.23 windows
 
 ### For Mac:
 Does not require files from repo. Download advpng using the link about or using homebrew.
